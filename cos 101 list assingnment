@@ -1,0 +1,8 @@
+number=[21,23,24,25]
+provision_list=['ice cream',
+             'shoe',
+             'brush']
+print(provision_list)
+provision_list.reverse()
+print(provision_list)
+             
